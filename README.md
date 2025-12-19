@@ -104,6 +104,7 @@ If you use this benchmark in your research, please cite:
 Kaggle Grandmaster | WWTP Operations Expert
 
 - 🏆 Kaggle: [@mehmetisik](https://www.kaggle.com/mehmetisik)
+- ✍️ Medium: [@mmehmetisik](https://medium.com/@mmehmetisik)
 - 💼 LinkedIn: [Connect](https://www.linkedin.com/in/yourprofile)
 
 ---
