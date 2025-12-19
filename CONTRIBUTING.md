@@ -100,9 +100,13 @@ E) [Option E] (optional)
 ## 📬 Contact
 
 Questions? Reach out:
-- Kaggle: [@mehmetisik](https://www.kaggle.com/mehmetisik)
-- Medium: [@mmehmetisik](https://medium.com/@mmehmetisik)
+- 🏆 Kaggle: [@mehmetisik](https://www.kaggle.com/mehmetisik)
+- ✍️ Medium: [@mmehmetisik](https://medium.com/@mmehmetisik)
+- 💼 LinkedIn: [Mehmet ISIK](https://www.linkedin.com/in/yourprofile)
 
+---
+
+**Thank you for helping improve LLM evaluation in industrial engineering! 🏭**
 ---
 
 **Thank you for helping improve LLM evaluation in industrial engineering! 🏭**
