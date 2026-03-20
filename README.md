@@ -17,6 +17,8 @@ Standard LLM evaluations measure correctness: did the model get the right answer
 
 Wastewater treatment plant (WWTP) engineering serves as the vehicle, not the destination. The domain was chosen because it requires integrating safety protocols, material science, process chemistry, and operational judgment — areas where training data is thin and textbook answers are often insufficient. The behavioral findings, however, generalize beyond this domain.
 
+The behavioral patterns documented across 13 benchmarks parallel what cognitive science terms *executive functions*: inhibitory control (suppressing the dominant but incorrect response), cognitive flexibility (shifting from one evaluation framework to another), working memory (maintaining multiple criteria simultaneously), and planning (sequencing actions in correct order). This series does not claim that LLMs possess executive functions — but the failures it documents map consistently onto the same categories where these functions would be required.
+
 This work is intended for LLM evaluators, AI safety researchers, and engineers assessing LLM reliability for domain-critical decisions.
 
 ---
