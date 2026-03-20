@@ -17,6 +17,8 @@ Standard LLM evaluations measure correctness: did the model get the right answer
 
 Wastewater treatment plant (WWTP) engineering serves as the vehicle, not the destination. The domain was chosen because it requires integrating safety protocols, material science, process chemistry, and operational judgment — areas where training data is thin and textbook answers are often insufficient. The behavioral findings, however, generalize beyond this domain.
 
+This work is intended for LLM evaluators, AI safety researchers, and engineers assessing LLM reliability for domain-critical decisions.
+
 ---
 
 ## Key Findings Across 13 Benchmarks
@@ -182,9 +184,10 @@ If you reference this work in your research:
 
 Kaggle Grandmaster | WWTP Operations Engineer | Ceyhan WWTP, Adana, Turkey
 
+- Website: [mehmetisik.dev](https://mehmetisik.dev/)
+- LinkedIn: [in/mehmetisik4601](https://www.linkedin.com/in/mehmetisik4601/)
 - Kaggle: [@mehmetisik](https://www.kaggle.com/mehmetisik)
 - Medium: [@mmehmetisik](https://medium.com/@mmehmetisik)
-- LinkedIn: [Mehmet ISIK](https://www.linkedin.com/in/mmehmetisik/)
 
 ---
 
